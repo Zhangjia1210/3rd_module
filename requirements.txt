@@ -1,0 +1,7 @@
+requests
+bs4
+colorama
+requests_html
+asyncio
+tqdm
+pytest
